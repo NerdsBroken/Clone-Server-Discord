@@ -7,8 +7,6 @@ Os Maiores Nerds Da Web...
 ## Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
-- [Instalar](#Instalação)
-- [Uso](#Uso)
 - [Contatos](#Contatos)
 - [Licença](#licença)
 
