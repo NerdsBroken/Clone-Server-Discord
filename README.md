@@ -1,8 +1,8 @@
 # 🅱️ Cloner Server Discord
 
-Os Maiores Nerds Da Web...
+O Maior Nerd Da Web...
 
-![b](https://cdn.discordapp.com/attachments/1157588358780952597/1163270940621287515/1697415788293.jpg?ex=653ef77c&is=652c827c&hm=879e7e69b42e462be9d1e0de&))
+![b](https://media.discordapp.net/attachments/1098979717396303932/1160203688686661642/e25cc90d324c0c8caa8d44f2445c11b7.jpg?width=470&height=156)
 
 ## Índice
 
@@ -21,9 +21,9 @@ Os Maiores Nerds Da Web...
 ## Contatos
 
 ```javascript
-https://discord.gg/broken7
+https://discord.gg/CSKtFjKWWW
 ```
 
 ## Copyright 
 
-Todos os direitos e créditos à Broken.                                        
+Todos os direitos e créditos à osama.                                        
